@@ -1,0 +1,24 @@
+*{
+	margins: 0px;
+	padding: 0px;
+}
+
+.box{
+	width: 358px;
+	height: 600px;
+	background-color: lightblue;
+	margin: 20px;
+	padding: 10px;
+	border: 2px solid black;
+	display: inline-block;
+	vertical-align: top;
+}
+.box2{
+	
+	
+	background-color: lightblue;
+	margin: 20px;
+	padding: 10px;
+	border: 2px solid black;
+	
+}
